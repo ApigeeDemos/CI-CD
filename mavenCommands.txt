@@ -1,0 +1,3 @@
+mvn apigee-enterprise:deploy -PTest -Dusername=jachansen@hotmail.com -Dpassword=${PASSWORD}
+mvn clean -PTest -Dusername=jachansen@hotmail.com -Dpassword=${PASSWORD}
+mvn install -PTest -Dusername=jachansen@hotmail.com -Dpassword=${PASSWORD}
